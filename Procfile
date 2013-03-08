@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n openbot
+web: bin/hubot -a irc -n tobnepo --alias '/'
